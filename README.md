@@ -1,6 +1,8 @@
 uDeltaPlugin for Repetier Host
 ==============================
 
+[![GuardRails badge](https://badges.production.guardrails.io/doodz/uDeltaPlugin_for_Repetier_Host.svg)](https://www.guardrails.io)
+
 This is the sources of the µDelta Plugin we give to our customer.
 
 It was originaly just a prototype in order to see if it works or not
